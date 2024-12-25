@@ -21,9 +21,6 @@ Output: NO
 
 Time Complexity:- O(n);
 space complexity:- O(n);
-
-i have already solve it using sort algorithms but i solve it again with dutch flag algorithm
-
 */
 #include<bits/stdc++.h>
 using namespace std;
